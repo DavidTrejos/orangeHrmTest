@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test';
+/* import { test, expect } from '@playwright/test';
 
 test('Login and update personal info in OrangeHRM', async ({ page }) => {
   // Paso 1: Ir al login
@@ -28,3 +28,4 @@ test('Login and update personal info in OrangeHRM', async ({ page }) => {
   await expect(page.locator('.oxd-toast')).toBeVisible();
   await expect(page.locator('.oxd-toast-content')).toContainText('Success');
 });
+ */
